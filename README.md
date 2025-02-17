@@ -10,7 +10,9 @@ This project focuses on automated grading of fatty liver disease using machine l
 🔹 Machine_Learning_Models/ → Includes three phases of model training:
 
 Training 11 machine learning models using all available features.
+
 Selecting the top 3 models and training them on the 7 most important features.
+
 Training the top 3 models on the 4 most important features (excluding class 4).
 
 🩺 Fatty Liver Disease Classes
