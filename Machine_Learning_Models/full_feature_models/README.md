@@ -38,7 +38,7 @@ Random Forest (RF)
 
 Support Vector Machine (SVM)
 
-xgboost
+xgboost (XGB)
 
 Multi-Layer Perceptron (MLP)
 
