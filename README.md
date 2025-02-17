@@ -5,6 +5,7 @@ Machine learning-based classification of fatty liver disease into five grades us
 This project focuses on automated grading of fatty liver disease using machine learning algorithms. The dataset consists of clinical and laboratory features from patients, aiming to classify them into different grades of fatty liver disease.
 
 📂 Project Structure:
+
 🔹 EDA/ → Exploratory data analysis (EDA) of the dataset.
 
 🔹 Data_Augmentation/ → Data preprocessing and augmentation technique.
