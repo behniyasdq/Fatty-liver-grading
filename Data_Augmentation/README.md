@@ -1,6 +1,6 @@
 Data_Augmentation 
 
-This folder contains data augmentation techniques used to enhance the dataset and improve model generalization. The following methods were applied:
+This folder contains data augmentation  and pre-processing techniques used to enhance the dataset and improve model generalization. The following methods were applied:
 
 ✅ Gaussian Noise Augmentation: Adding Gaussian noise (mean = 0, std = 0.2) to numerical features to increase variability and prevent overfitting.
 
